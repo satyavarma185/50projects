@@ -56,3 +56,15 @@
     letter-spacing: 0.1rem;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 650px) {
+    #time{
+        flex-direction: column;
+        padding: 20px 80px;
+        margin: 20px 0;
+    }
+    #time .ap {
+        margin-left: 50%;
+        font-size: 2rem;
+    }
+}
