@@ -16,11 +16,13 @@
 
 #time {
     display: flex;
+    background-color: #30353c;
     gap: 40px;
     color: #ffffff;
-    border: 1px solid #ffffff;
+    border: 5px ridge #ffffff;
     border-radius: 20px;
     padding: 20px;
+    box-shadow: 0 0 50px 15px #48abe0;
 }
 
 
